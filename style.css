@@ -1,0 +1,41 @@
+body{
+    background-color: white;
+    border:5px solid white;
+}
+h1{
+    text-align: center;
+    color: #1b435d;
+}
+div{
+    width: 98.5%;
+    height: 200px;
+    background-color: black;
+    margin: 10px;
+    padding: 10px 0px;
+}
+#first{
+    background-color: #cadefc;
+    justify-content:space-between;
+}
+#second{
+    background-color: #c3bef0;
+    justify-content: space-around;
+}
+#third{
+    background-color: #cca8e9;
+    justify-content:space-between;
+}
+img {
+    height: 200px;
+}
+div{
+   display: flex;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    color: #9ba6a5;
+}
+a{
+    color: #cca8e9;
+}
